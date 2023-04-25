@@ -1,0 +1,8 @@
+Martin;Argentina;;;X;Arabia Saudita
+Martin;Polonia;;;X;Mexico
+Martin;Mexico;;;X;Arabia Saudita
+Martin;Polonia;;;X;Argentina
+Celeste;Argentina;X;;;Arabia Saudita
+Celeste;Polonia;;;X;Mexico
+Celeste;Mexico;X;;;Arabia Saudita
+Celeste;Polonia;;;X;Argentina
